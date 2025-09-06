@@ -65,7 +65,7 @@ npm install
 npm run dev
 ```
 
-Open your browser → [http://localhost:5173](http://localhost:5173) (Vite default).
+Open your browser → [http://localhost:5173](http://localhost:8080) 
 
 ---
 
@@ -101,3 +101,4 @@ Open your browser → [http://localhost:5173](http://localhost:5173) (Vite defau
 ## 📜 License
 
 MIT License © 2025
+
